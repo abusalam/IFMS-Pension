@@ -1,0 +1,6 @@
+@IFMS_Pension_HostAddress = http://localhost:5170
+
+GET {{IFMS_Pension_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
